@@ -1,4 +1,4 @@
-namespace DesignPatterns.Factory_Method;
+namespace DesignPatterns.Creation.Factory_Method;
 
 public class CodeDiscountService : DiscountService
 {

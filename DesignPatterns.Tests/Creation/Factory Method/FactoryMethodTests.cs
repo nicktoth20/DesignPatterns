@@ -1,8 +1,8 @@
-using DesignPatterns.Factory_Method;
+using DesignPatterns.Creation.Factory_Method;
 using FluentAssertions;
 using Xunit;
 
-namespace DesignPatterns.Tests.Factory_Method;
+namespace DesignPatterns.Tests.Creation.Factory_Method;
 
 public class FactoryMethodTests
 {

@@ -1,8 +1,8 @@
-﻿using DesignPatterns.Singleton;
+﻿using DesignPatterns.Creation.Singleton;
 using FluentAssertions;
 using Xunit;
 
-namespace DesignPatterns.Tests.Singleton;
+namespace DesignPatterns.Tests.Creation.Singleton;
 
 public class LoggerTests
 {

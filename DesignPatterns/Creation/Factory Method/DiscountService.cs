@@ -1,4 +1,4 @@
-namespace DesignPatterns.Factory_Method;
+namespace DesignPatterns.Creation.Factory_Method;
 
 // The intent of the factory method pattern is to define an interface for creating an object,
 // but to let subclasses decide which class to instantiate.

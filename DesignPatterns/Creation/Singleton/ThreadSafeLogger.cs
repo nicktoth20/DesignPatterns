@@ -1,4 +1,4 @@
-namespace DesignPatterns.Singleton;
+namespace DesignPatterns.Creation.Singleton;
 
 public class ThreadSafeLogger
 {

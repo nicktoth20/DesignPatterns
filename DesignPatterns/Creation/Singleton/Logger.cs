@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Singleton;
+﻿namespace DesignPatterns.Creation.Singleton;
 
 // The intent of the singleton pattern is to ensure that a class only has one instance, and to provide a global point of access to it
 public class Logger

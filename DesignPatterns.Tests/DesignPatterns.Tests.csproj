@@ -18,4 +18,8 @@
       <ProjectReference Include="..\DesignPatterns\DesignPatterns.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Structural\Proxy" />
+    </ItemGroup>
+
 </Project>

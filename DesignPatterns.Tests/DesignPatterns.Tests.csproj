@@ -19,6 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="Structural\Flyweight" />
       <Folder Include="Structural\Proxy" />
     </ItemGroup>
 

@@ -14,6 +14,7 @@ public class Customer : IElement
         Name = name;
         AmountOrdered = amountOrdered;
     }
+
     public void Accept(IVisitor visitor)
     {
         // visitor.VisitCustomer(this);
